@@ -9,6 +9,7 @@ namespace EasyClipboardTest
         [TestMethod]
         public void TestMethod1()
         {
+            public static int num=5;
         }
     }
 }
