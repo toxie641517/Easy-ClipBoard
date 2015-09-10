@@ -1,0 +1,12 @@
+C:\VSOnline\zack\EasyClipboard\bin\Release\EasyClipboard.exe.config
+C:\VSOnline\zack\EasyClipboard\bin\Release\EasyClipboard.exe
+C:\VSOnline\zack\EasyClipboard\obj\Release\EasyClipboard.csprojResolveAssemblyReference.cache
+C:\VSOnline\zack\EasyClipboard\obj\Release\EasyClipboard.BoardHistory.resources
+C:\VSOnline\zack\EasyClipboard\obj\Release\EasyClipboard.Properties.Resources.resources
+C:\VSOnline\zack\EasyClipboard\obj\Release\EasyClipboard.csproj.GenerateResource.Cache
+C:\VSOnline\zack\EasyClipboard\obj\Release\EasyClipboard.exe
+C:\VSOnline\zack\EasyClipboard\obj\Release\EasyClipboard.pdb
+C:\VSOnline\zack\EasyClipboard\bin\Release\EasyClipboard.pdb
+C:\Users\zhijliu\Documents\GitHub\Easy-ClipBoard\EasyClipboard\bin\Release\EasyClipboard.exe.config
+C:\Users\zhijliu\Documents\GitHub\Easy-ClipBoard\EasyClipboard\obj\Release\EasyClipboard.exe
+C:\Users\zhijliu\Documents\GitHub\Easy-ClipBoard\EasyClipboard\obj\Release\EasyClipboard.pdb

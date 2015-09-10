@@ -1,0 +1,7 @@
+C:\VSOnline\zack\EasyClipboardTest\bin\Release\EasyClipboardTest.dll
+C:\VSOnline\zack\EasyClipboardTest\bin\Release\EasyClipboardTest.pdb
+C:\VSOnline\zack\EasyClipboardTest\bin\Release\EasyClipboard.exe
+C:\VSOnline\zack\EasyClipboardTest\bin\Release\EasyClipboard.pdb
+C:\VSOnline\zack\EasyClipboardTest\obj\Release\EasyClipboardTest.csprojResolveAssemblyReference.cache
+C:\VSOnline\zack\EasyClipboardTest\obj\Release\EasyClipboardTest.dll
+C:\VSOnline\zack\EasyClipboardTest\obj\Release\EasyClipboardTest.pdb
