@@ -14,6 +14,7 @@ namespace EasyClipboard
         [STAThread]
         static void Main()
         {
+        // THIS IS A TEST
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new BoardHistory());
